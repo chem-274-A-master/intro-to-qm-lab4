@@ -1,0 +1,9 @@
+name: intro-qm-lab
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - psi4
+  - jupyterlab
+  - matplotlib
